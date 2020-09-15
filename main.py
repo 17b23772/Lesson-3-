@@ -1,8 +1,9 @@
 noun = "bike"
 adverb = "quickly"
 adjective = "quiet"
-print(f"The {noun} was {adjective} when it {adverb} went to school")
+proper_noun = "London"
+print(f"The {noun} was {adjective} when it {adverb} went to {proper_noun}")
 noun = "donkey"
 adverb = "moonwalked"
 adjective = "vibing"
-print(f"The {noun} was {adjective} when it {adverb} to school")
+print(f"The {noun} was {adjective} when it {adverb} to {proper_noun}")
